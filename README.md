@@ -4,4 +4,4 @@
 - 💼 I know the basics of OOP and functional programming. I have been doing school projects in Java language for more than 1 year. I also have more than 3 months of experience in C and Python languages. I think I can handle other languages by learning syntax. 
 - 📫 You can reach me on my cell phone that +90 531 297 54 15 or email (orhundemir35@gmail.com)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=orhundemir)](https://github.com/anuraghazra/github-readme-stats)
